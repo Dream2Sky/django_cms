@@ -1,0 +1,7 @@
+/appearance/node_modules
+/appearance/dist/adminlte/*
+/appearance/dist/ueditor/*
+.idea
+/media/*
+*.pyc
+*.lock
